@@ -1,0 +1,28 @@
+Architectures: amd64 all
+Codename: trixie
+Components: main
+Date: Fri, 25 Sep 2026 06:18:54 +0000
+Description: Stained Glass OS packages
+Label: Stained Glass OS
+Origin: Stained Glass OS
+Suite: trixie
+MD5Sum:
+ 31dffab6aeb3f825872e10edc747726f              199 Release
+ 7d483d178a32d2c0231481a20f19ad7f             5727 main/binary-amd64/Packages
+ f4bf63603954ccd3ea1f9b0ff60fac1c             2671 main/binary-amd64/Packages.gz
+ ebc26d57df0a356cbb5e8dab8be26a9f             2696 main/binary-amd64/Packages.xz
+SHA1:
+ 684f987308d0cc8be38acbcbd38f0eeba5f49f39              199 Release
+ c1c8f5b28e73cba63212b2ac5408432da162fc9b             5727 main/binary-amd64/Packages
+ 66c36b4a9366655d2cbba7dcf5dbf75a0a0ebbb4             2671 main/binary-amd64/Packages.gz
+ 6460e3924b684d9ceb763e577103bd492bf2b0f6             2696 main/binary-amd64/Packages.xz
+SHA256:
+ d39d692f4aa51716ebac0e66b6e6a2ae588b367c18476a697656cf121314cad1              199 Release
+ 66265435d8e54ad318ac58c0d1ae39c97a18daee5857eecdbc113e3cf735d2e0             5727 main/binary-amd64/Packages
+ 0a4c710d2a71f034e9e25bc6dd0b30a6901396525eed3ff2ed81c075101e0408             2671 main/binary-amd64/Packages.gz
+ 76f79fa24481bc7372b21f901d417d3298da13000e7df1449ec5bf20c43484c7             2696 main/binary-amd64/Packages.xz
+SHA512:
+ 4e69953968ba9f6342dd627d5d16e5511d8c35924136c122c40d97557b96cdcce0f0f2ebdcd994801a5dd06bb0e807f3c98a435037bb03a7dd41e991ead24b73              199 Release
+ 7e52833dce04380278fed4c478ca3b7d867dc045181068d48941ae2e6aba29e56360f066455b31e142ae9d1d843eeb42c3ba2d36f5533ded0bf362d05600710c             5727 main/binary-amd64/Packages
+ 2ab25c260256b65f098681f11d81de427fd47db839e87f88f7020741cc2e37a401943957cd4452011ccfb76af5590f9d2a5ff297de16192b4b0736d993efaf5b             2671 main/binary-amd64/Packages.gz
+ ad866d173f2932333503f0700b0c94691f3ad02e6aaba139fd1a9d071936b9a4a571cada1270aaa140057a66b4a09a18d1f248a35ae520a4394dd9e36e0a9e31             2696 main/binary-amd64/Packages.xz
